@@ -4,6 +4,12 @@ body {
     background-size: cover;
 }
 
+.navbar {
+    font-family: Poppins;
+    background-image: url(https://eduwork.id/assets/bg-hero.png);
+    background-size: cover;
+}
+
 .roadmap-number {
     background-color: #187CFF;
     border-radius: 50%;
