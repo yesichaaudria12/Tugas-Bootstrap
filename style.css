@@ -1,0 +1,29 @@
+body {
+    font-family: Poppins;
+    background-image: url(https://eduwork.id/assets/bg-hero.png);
+    background-size: cover;
+}
+
+.roadmap-number {
+    background-color: #187CFF;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.vertical-line {
+    border-left: 2px dotted #187CFF;
+    height: 30px;
+    margin-bottom: -12px;
+    margin-left: 11px;
+}
+
+.arrow-down {
+    border: solid #187CFF;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    margin-left: 8px;
+}
